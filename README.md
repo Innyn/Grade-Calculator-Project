@@ -1,1 +1,2 @@
 # Grade-Calculator-Project
+A program that requests the user to input three test scores, ensuring validation within the range of 0-100. Eliminate the lowest test score, compute the average of the two highest scores, and determine the corresponding letter grade using the provided grading formula. Display the outcomes, including the discarded lowest score, the calculated average (formatted to two decimal places), and the resulting letter grade.
